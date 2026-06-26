@@ -35,8 +35,8 @@ spec:
     metadata:
       labels:
         project: roboshop
-      tier: backend
-      component: catalogue
+        tier: backend
+        component: catalogue
     spec:
       containers:
       - name: catalogue
